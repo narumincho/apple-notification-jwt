@@ -1,4 +1,4 @@
-import { decodeBase64, encodeBase64Url } from "jsr:@std/encoding";
+import { decodeBase64, encodeBase64Url } from "jsr:@std/encoding@1";
 
 /**
  * Create a json web token for Apple Notification
